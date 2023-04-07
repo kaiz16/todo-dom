@@ -2,6 +2,24 @@
 
 - https://github.com/kaiz16/todo-dom
 
+### Project Instructions
+
+For this practice project, you will be building a simple todo list app. The app will allow users to add and remove todo items. The app should have the following features:
+
+- Add a new todo: Users can add a new todo.
+
+- Remove a todo: Users can remove a todo.
+
+- Mark a todo as completed/incomplete: Users can toggle a todo's completed status.
+
+- Mark a todo as priority/non-priority: Users can toggle a todo's priority status.
+
+- Filter todos: Users can filter the todos by selecting their status (all, completed, non-completed, priority, non-priority). For example, if the user selects "completed", only the completed todos will be shown.
+
+- Save todos (Optional): The app saves the todos to localStorage. This will allow the todos to persist even after the user refreshes the page.
+
+- Validation: Users are not allowed to add an empty todo. If the user tries to submit an empty todo, an alert message should be displayed.
+
 ### Running
 
 Make sure you have live server extension installed in your VS Code. If not, install it from here: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
